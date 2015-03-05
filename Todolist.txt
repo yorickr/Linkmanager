@@ -1,0 +1,2 @@
+TODO:
+Make it install itself on the first run.
