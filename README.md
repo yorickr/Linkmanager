@@ -1,5 +1,5 @@
 # Linkmanager
-Little python script I made.
+Little python script I made, you can use it to make symbolic links to your /usr/bin folder.
 
 How to use it: 
 
